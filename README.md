@@ -1,3 +1,6 @@
+# E-Commerce Shopping Cart
+This is a simple React-based shopping cart project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
