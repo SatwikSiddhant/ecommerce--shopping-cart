@@ -6,6 +6,9 @@ import Checkout from "./routes/checkout/checkout.component";
 import Authentication from "./routes/authentication/authentication.component";
 import { Routes, Route } from "react-router-dom";
 
+// Main app file for the e-commerce shopping cart
+console.log("E-Commerce App Loaded!");
+
 const App = () => {
   return (
     <Routes>
